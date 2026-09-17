@@ -1,0 +1,8 @@
+{
+  "name": "Student Management System – CRUD Based Web Application",
+  "description": "A full-stack CRUD Student Management System with Spring Boot REST API, MySQL database design, real-time dashboard, directory management, and interactive API testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
